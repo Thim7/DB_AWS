@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Hello there~~~
+# Hello there~~~!!!!
 tablename = 'datacovid'
 def getAttr(cols, dtype):
     attr=""
